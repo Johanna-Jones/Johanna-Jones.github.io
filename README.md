@@ -15,11 +15,18 @@ I've collaborated with the University of Sydney for *Sydney Data Stories* sharin
 
 In my spare time, you can find me on the cycle track or the pool, or exploring my city.
 
-Want to know more about my work? Check out my blog series on Medium at [@johannajones00](https://medium.com/@johannajones00).
+Want to know more about my work? Check out my blog series on Medium at [@johannajones00](https://medium.com/@johannajones00) where I talk about my projects as I complete them, share resources and any bumps I experience along the way!
 
 
 
+# Read All About It!
 
-[Test Projects](https://johanna-jones.github.io/Projects.md/)
+### Frontier Touring's Satellite Concert Events
+Taylor Swift is the hottest and possibly biggest music artist ever. However, her popularity and demand leaves several fans wanting more and ticketing companies wanting to make more. In this proposal, we take the position of Frontier Touring and propose a strategic initative of Satellite Viewing options to capture more of the market share and drive malicious activities such as scalping down. 
+
+This project seeks to demonstrate our project management skills in ideating and proposing a solution that strategically aligns with Frontier Touring's commercial and organisational objectives.
+
+Take a look at the report here: [Satellite Viewing](\Reports/FrontierTouring.pdf)
+
 
 
