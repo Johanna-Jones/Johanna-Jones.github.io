@@ -1,6 +1,4 @@
-layout: page
-title: "Projects"
-permalink: https://Johanna-Jones.github.io/Projects
+
 
 # About Me
 
