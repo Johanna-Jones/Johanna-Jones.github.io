@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: Johanna Jones
 description: Hi I'm Johanna, welcome to my page :) I am a up and coming data analyst who is exploring new ideas and sharing them!
+
+
+
+layout: page
+title: "Projects"
+permalink: https://Johanna-Jones.github.io/Projects
+
