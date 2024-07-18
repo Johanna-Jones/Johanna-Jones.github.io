@@ -29,4 +29,14 @@ This project seeks to demonstrate our project management skills in ideating and 
 Take a look at the report here: [Satellite Viewing](/Reports/FrontierTouring.pdf)
 
 
+# Give it a Watch 
+
+### Sydney Data Stories
+
+In December 2023, I collaborated with the University of Sydney as part of their *Sydney Data Stories* series. *Sydney Data Stories* is a growing collection of data stories from across the University, that relate to a variety of different majors, programs, and degrees.
+
+The Sydney Data Stories project began as a live masterclass series for undergraduate data science and statistics students, in semester 1, 2018. They invited University of Sydney researchers, graduate students, and alumni industry professionals to present on “how they use data in their research”, and “how they came to do what they do”.
+
+Take a look at what I had to say [Here](https://sydney.instructuremedia.com/embed/c1c54f04-996b-4eab-a629-b7e57cc38fc0).
+
 
