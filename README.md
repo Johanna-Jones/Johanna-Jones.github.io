@@ -13,6 +13,6 @@ I've collaborated with the University of Sydney for *Sydney Data Stories* sharin
 
 In my spare time, you can find me on the cycle track or the pool, or exploring my city.
 
-Want to know more about my work? Check out my blog series on Medium at (@johannajones00) [https://medium.com/@johannajones00].
+Want to know more about my work? Check out my blog series on Medium at [@johannajones00] (https://medium.com/@johannajones00).
 
 
