@@ -26,7 +26,7 @@ Taylor Swift is the hottest and possibly biggest music artist ever. However, her
 
 This project seeks to demonstrate our project management skills in ideating and proposing a solution that strategically aligns with Frontier Touring's commercial and organisational objectives.
 
-Take a look at the report here: [Satellite Viewing](Johanna-Jones.github.io/Reports/FrontierTouring.pdf)
+Take a look at the report here: [Satellite Viewing](/Reports/FrontierTouring.pdf)
 
 
 
