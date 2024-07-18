@@ -20,6 +20,6 @@ Want to know more about my work? Check out my blog series on Medium at [@johanna
 
 
 
-[Test Projects](https://johanna-jones.github.io/Projects/)
+[Test Projects](https://johanna-jones.github.io/Projects.md/)
 
 
