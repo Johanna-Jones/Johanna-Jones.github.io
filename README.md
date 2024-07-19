@@ -29,6 +29,11 @@ This project seeks to demonstrate our project management skills in ideating and 
 Take a look at the report here: [Satellite Viewing](/Reports/FrontierTouring.pdf)
 
 
+### 
+
+(https://Johanna-Jones.github.io/AnalysisOfYOLOvariantsOnBloodCellData.pdf)
+
+
 # Give it a Watch 
 
 ### Sydney Data Stories
