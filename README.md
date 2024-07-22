@@ -29,9 +29,16 @@ This project seeks to demonstrate our project management skills in ideating and 
 Take a look at the report here: [Satellite Viewing](/Reports/FrontierTouring.pdf)
 
 
-### 
+### Analysis of YOLO for Blood Cell Biomedical Images
 
-(https://Johanna-Jones.github.io/AnalysisOfYOLOvariantsOnBloodCellData.pdf)
+For my Master's final thesis, I set out to analyse a set of blood cell images and determine whether the YOLO (You Only Look Once) object detection framework sitting under Ultralytics would actually serve the pathology sphere well, given its success in other contexts.
+
+This project demonstrates my skills in 
+- **Research** information synthesis, presentation and report writing
+- **Management of computing systems and resources**: Used GADI, a supercomputer, UNIX, bash commands
+- **Object Detection/ Deep Learning**: Hyperparameter tuning, image processing, analysis of performance metrics (accuracy, precision, recall and IOU)
+
+Take a look at the report here: [YOLO for Biomedical Images](Reports/AnalysisOfYOLOvariantsOnBloodCellData (1).pdf)
 
 
 # Give it a Watch 
