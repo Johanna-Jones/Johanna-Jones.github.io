@@ -38,7 +38,7 @@ This project demonstrates my skills in
 - **Management of computing systems and resources**: Used GADI, a supercomputer, UNIX, bash commands
 - **Object Detection/ Deep Learning**: Hyperparameter tuning, image processing, analysis of performance metrics (accuracy, precision, recall and IOU)
 
-Take a look at the report here: [YOLO for Biomedical Images](Reports/AnalysisOfYOLOvariantsOnBloodCellData (1).pdf)
+Take a look at the report here: [YOLO for Biomedical Images](/Reports/AnalysisOfYOLOvariantsOnBloodCellData.pdf)
 
 
 # Give it a Watch 
